@@ -9,9 +9,9 @@
 #### 언어
   - Java
 #### 문제 풀이 사이트
-  - 백준 <단계별로 풀어보기>  
+  - 백준 <단계별로 풀어보기>!  
     - https://www.acmicpc.net/step
-  - 프로그래머스 <SQL 고득점 키트> 
+  - 프로그래머스 <SQL 고득점 키트>! 
     - https://school.programmers.co.kr/learn/challenges?tab=sql_practice_kit  
   
   
