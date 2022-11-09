@@ -49,7 +49,7 @@
 링크 : https://readyt0g0.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%98%B9%EC%95%8C%EC%9D%B41
 
 #### 박정훈:
-링크
+링크 : https://gist.github.com/parkhoome/221013c5155a11ae37d88fca24274c7b
 
 #### 정기범:
 링크
